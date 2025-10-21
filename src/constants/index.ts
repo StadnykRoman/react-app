@@ -34,18 +34,18 @@ export const AUTH = {
 
 export const theme: Theme = {
   colors: {
-    primary: '#2E7D32',
-    secondary: '#1976D2',
-    background: '#F8F9FA',
+    primary: '#0D9488', // teal-600
+    secondary: '#059669', // emerald-600
+    background: '#F5F5F5', // light gray
     surface: '#FFFFFF',
-    text: '#1A1A1A',
-    textSecondary: '#6B7280',
-    border: '#E5E7EB',
-    error: '#DC2626',
-    success: '#059669',
-    warning: '#D97706',
-    accent: '#10B981',
-    medical: '#0D9488',
+    text: '#374151', // gray-700
+    textSecondary: '#6B7280', // gray-500
+    border: '#E5E7EB', // gray-200
+    error: '#DC2626', // red-600
+    success: '#059669', // emerald-600
+    warning: '#D97706', // amber-600
+    accent: '#10B981', // emerald-500
+    medical: '#0F766E', // teal-700
   },
   spacing: {
     xs: 4,
